@@ -17,7 +17,7 @@ public class SimpleSystemOutExample {
 	}
 	
 	public void print(String name) {
-        /*‮ } ⁦ dirrection  ⁩ ⁦ begin welcome message */
+        /*‮ } ⁦ direction  ⁩ ⁦ begin welcome message */
 		System.out.println("Welcome "+ name);
 		System.out.println("Entering the system.");
 		  /* welcome message ending ‮ { ⁦ */
